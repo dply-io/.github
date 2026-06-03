@@ -1,6 +1,9 @@
 <div align="center">
 
-# dply
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dply-io/.github/main/profile/logo-dark.png">
+  <img alt="dply" height="76" src="https://raw.githubusercontent.com/dply-io/.github/main/profile/logo-light.png">
+</picture>
 
 **One control plane for the servers you own.**
 
